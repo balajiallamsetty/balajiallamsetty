@@ -23,7 +23,7 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/balaji-allamsetty/)
+- [LinkedIn](https://www.linkedin.com/in/balaji-allamsetty-02818732a/)
 - [Instagram](https://instagram.com/balajiallamsetty)
 
 ---

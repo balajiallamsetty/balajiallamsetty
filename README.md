@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Balaji Allamsetty 👋
 
-<!--
-**balajiallamsetty/balajiallamsetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student**  
+💡 Just an above average student passionate about coding, learning, and building cool projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Top Skills
+
+- **C**
+- **Python**
+- **Java**
+- **HTML**
+
+---
+
+## 🚀 Favorite Project
+
+- [Student Mess Bill Calculation](https://github.com/balajiallamsetty/CRT)  
+  This project simplifies the process of calculating mess bills for students—making life a little easier!
+
+---
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/balaji-allamsetty/)
+- [Instagram](https://instagram.com/balajiallamsetty)
+
+---
+
+## 🎮 Hobbies
+
+- Listening to music 🎵
+- Playing E-sports 🕹️
+
+---
+
+> “Just an average student exploring the world of code, one project at a time.”
+
+Thanks for visiting my profile!
